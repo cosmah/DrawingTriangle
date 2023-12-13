@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702456375 source:c:\users\administrator\desktop\software engineering\c\drawing\main.c
+	<stdio.h>
+	<stdlib.h>
+
